@@ -26,4 +26,5 @@ Often the best source of reading and processing a codebase lives right in the co
 - [Nitro Components](https://github.com/powerhome/nitro-web/blob/master/components/README.md)
 - [Yarn Workspaces in Nitro](https://github.com/powerhome/nitro-web/blob/master/docs/USING_YARN_WORKSPACES.md)
 - [Nitro on APP Quickstart Guide](https://github.com/powerhome/nitro-web/blob/master/docs/NITRO_ON_APP.md)
+- [NitroGraphql](https://github.com/powerhome/nitro-web/blob/master/components/nitro_graphql/README.md)
 - [Nitro News](https://github.com/powerhome/nitro-web/blob/master/news.md)
